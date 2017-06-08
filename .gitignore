@@ -2,19 +2,12 @@
 ## Misc
 #################
 **/.DS_Store
-nbproject
-manifest.mf
-build.xml
-node_modules/*
+node_modules
 npm-debug.log
 *.js
-!config/*
 !webpack.config.js
 *.map
 *.d.ts
-!make.js
-!examples/**/*.js
-coverage
 *.metadata.json
 bundles
 
@@ -34,4 +27,5 @@ Thumbs.db
 
 # Folder config file
 Desktop.ini
+
 

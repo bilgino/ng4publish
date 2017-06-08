@@ -2,9 +2,6 @@
 ## Misc
 #################
 **/.DS_Store
-nbproject
-manifest.mf
-build.xml
 node_modules/*
 npm-debug.log
 *.ts
@@ -12,7 +9,6 @@ npm-debug.log
 tests
 examples
 .github
-coverage
 !*.metadata.json
 !bundles/*.js
 
