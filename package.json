@@ -1,14 +1,13 @@
 {
-  "name": "ng2publish",
-  "description": "Starter Kit for Angular Libraries",
+  "name": "ng4publish",
+  "description": "How to build an Angular library",
   "version": "1.0.0",
   "scripts": {
-    "prepublish": "ngc && webpack",
     "build": "webpack",
     "ngc": "ngc"
   },
   "license": "MIT",
-  "main": "bundles/ng2publish.umd.js",
+  "main": "bundles/ng4publish.umd.js",
   "module": "index.js",
   "typings": "index.d.ts",
   "peerDependencies": {
