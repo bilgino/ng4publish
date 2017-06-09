@@ -7,7 +7,7 @@
 5. Create - npm-all - as group using members of the afore created repositories. 
 6. Add security realms - npm Bearer Token Realm - 
 
-# Client setup 
+# npm client setup 
 
 1. Configure the Repository:
 
