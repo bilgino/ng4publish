@@ -7,6 +7,16 @@
 5. Create - npm-all - as group using members of the afore created repositories. 
 6. Add security realms - npm Bearer Token Realm - 
 
+# Prepare Build 
+
+1. Generate the AOT compile pack
+```
+npm run ngc 
+```
+2. Start the build process based on AOT
+```
+npm run build
+
 # npm client setup 
 
 1. Configure the repository:
@@ -27,15 +37,6 @@ npm login --registry=http://localvm:8081/repository/npm-internal/
 npm publish --registry http://localvm:8081/repository/npm-internal/ 
 ```
 
-# Prepare Build before publishing
-
-1. Generate the AOT compile pack
-```
-npm run ngc 
-```
-2. Start the build process based on AOT
-```
-npm run build
 ```
 
 
