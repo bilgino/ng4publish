@@ -9,7 +9,7 @@
 
 # Prepare Build 
 
-1. Generate the AOT compile pack
+1. Generate the AOT compilation
 ```
 npm run ngc 
 ```
