@@ -1,7 +1,12 @@
+# Using nexus as proxy repository server 
+
+To publish an angular4 based component libarary you usually use angular modules. This example uses a simple dummy-component declared in a ng4 module. 
+
+
 # Configure nexus for npm
 
 1. Download, install and start nexus.
-2. Login as admin or create a user account with permission.
+2. Login as admin or create a new user with permission.
 3. Create - npm-internal - as hosted repository.
 4. Create - npm-public - as proxy repository which points to https://registry.npmjs.org
 5. Create - npm-all - as group using members of the afore created repositories. 
