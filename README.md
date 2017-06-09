@@ -16,6 +16,7 @@ npm run ngc
 2. Start the build process based on AOT
 ```
 npm run build
+```
 
 # npm client setup 
 
@@ -37,7 +38,7 @@ npm login --registry=http://localvm:8081/repository/npm-internal/
 npm publish --registry http://localvm:8081/repository/npm-internal/ 
 ```
 
-```
+
 
 
 
