@@ -18,7 +18,7 @@ npm config set registry http://localhost:8081/repository/npm-all/
 2. Login for publish:
 
 ```
-npm login --registry=http://localvm:8081/repository/npm-internal/ --
+npm login --registry=http://localvm:8081/repository/npm-internal/ 
 ```
 
 3. Configure for publish:
