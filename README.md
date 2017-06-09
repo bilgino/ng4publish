@@ -1,6 +1,6 @@
 # Using nexus as proxy repository server 
 
-To publish an angular4 based component libarary you usually use angular modules. This example uses a simple dummy-component declared in a ng4 module. 
+To publish an angular4 based component library you usually use angular modules. This example uses a simple dummy-component declared in a ng4 module. 
 
 
 # Configure nexus for npm
