@@ -9,7 +9,7 @@
 
 # npm client setup 
 
-1. Configure the Repository:
+1. Configure the repository:
 
 ```
 npm config set registry http://localhost:8081/repository/npm-all/
